@@ -37,6 +37,7 @@ Nutrifact Mobile dibangun menggunakan teknologi berikut:
 ![Profile](https://ik.imagekit.io/ipjeggjxz/IMG-20241212-WA0021.jpg?updatedAt=1734010412083)
 
 ## Demo Video
+- [NutriFact Application](https://drive.google.com/file/d/1IQK20LRdKK6gu2jCX59kXwfiZ4J5nVTi/view?usp=drive_link)
 
 ## Download Our Apps
 You can download APK it here: https://drive.google.com/drive/folders/1EYa3XA7Vlixf0UKGSxhrsN9JJeyYE-YD?usp=drive_link
