@@ -30,6 +30,11 @@ Nutrifact Mobile dibangun menggunakan teknologi berikut:
   - DataStore
   
 ## Sccreenshots
+![Authentication](https://ik.imagekit.io/ipjeggjxz/IMG-20241212-WA0022.jpg?updatedAt=1734010412069)
+![Home](https://ik.imagekit.io/ipjeggjxz/IMG-20241212-WA0019.jpg?updatedAt=1734010411874)
+![Scan Product](https://ik.imagekit.io/ipjeggjxz/IMG-20241212-WA0018.jpg?updatedAt=1734010412196)
+![Post New Product](https://ik.imagekit.io/ipjeggjxz/IMG-20241212-WA0020.jpg?updatedAt=1734010411932)
+![Profile](https://ik.imagekit.io/ipjeggjxz/IMG-20241212-WA0021.jpg?updatedAt=1734010412083)
 
 ## Demo Video
 
